@@ -1,0 +1,12 @@
+<MWFConfig>
+  <FileDialog>
+    <value name="LastFolder" type="string">/home/alomsimoy/Documents/Drive</value>
+    <value name="FileNames" type="string-array">
+      <string>/home/alomsimoy/Documents/Drive/general.kdbx</string>
+    </value>
+    <value name="Width" type="int">476</value>
+    <value name="X" type="int">1442</value>
+    <value name="Y" type="int">41</value>
+    <value name="Height" type="int">1037</value>
+  </FileDialog>
+</MWFConfig>

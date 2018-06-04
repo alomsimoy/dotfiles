@@ -1,0 +1,51 @@
+#openbox themerc edited with obtheme
+border.width: 2
+menu.border.color: #BDC3C7
+menu.border.width: 1
+menu.items.active.bg: Flat Solid
+menu.items.active.bg.color: #3DAEE9
+menu.items.active.text.color: #f7f7f7
+menu.items.bg: Flat Solid
+menu.items.bg.color: #f2f2f2
+menu.items.text.color: #323438
+menu.overlap: 2
+menu.separator.color: #BDC3C7
+menu.separator.padding.height: 2
+menu.separator.padding.width: 6
+menu.separator.width: 1
+menu.title.bg: Solid Flat
+menu.title.bg.color: #4C555D
+menu.title.text.color: #f7f7f7
+menu.title.text.justify: left
+padding.width: 6
+window.active.border.color: #4C555D
+window.active.button.hover.bg: Flat Solid
+window.active.button.hover.bg.color: #E1E1E1
+window.active.button.hover.bg.border.color: #1d1e1b
+window.active.button.hover.image.color: #323232
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #f1f1f1
+window.active.grip.bg: Flat Solid
+window.active.grip.bg.color: #eaebec
+window.active.handle.bg: Flat Solid
+window.active.handle.bg.color: #eaebec
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #f7f7f7
+window.active.title.bg: Flat Solid
+window.active.title.bg.color: #4C555D
+window.active.title.separator.color: #3DAEE9
+window.client.padding.width: 2
+window.handle.width: 0
+window.inactive.border.color: #8A9197
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.grip.bg: Flat Solid
+window.inactive.grip.bg.color: #eaebec
+window.inactive.handle.bg: Flat Solid
+window.inactive.handle.bg.color: #eaebec
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #D7D7D7
+window.inactive.title.bg: Flat Solid
+window.inactive.title.bg.color: #4C555D
+window.inactive.title.bg: Solid Flat
+window.inactive.title.bg.color: #8A9197
+window.label.text.justify: left

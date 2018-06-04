@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/alomsimoy/Downloads/2018-04-18-raspbian-stretch-lite.zip" added="2018-05-16T18:12:08Z" modified="2018-05-16T18:25:57Z" visited="2018-05-16T18:12:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-05-16T18:25:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Documents/Proyectos/Coursera/assigment1.zip" added="2018-05-27T16:17:40Z" modified="2018-05-27T16:17:40Z" visited="2018-05-27T16:17:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-05-27T16:17:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Coursera/week1_programming_challenges/1.c" added="2018-05-27T16:37:17Z" modified="2018-05-27T16:37:17Z" visited="2018-05-27T16:37:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-05-27T16:37:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Coursera/week1_programming_challenges/2.c" added="2018-05-27T17:06:36Z" modified="2018-05-27T17:09:38Z" visited="2018-05-27T17:06:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-05-27T17:09:38Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.c" added="2018-06-03T17:48:56Z" modified="2018-06-03T17:48:56Z" visited="2018-06-03T17:48:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T17:48:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.c" added="2018-06-03T17:59:15Z" modified="2018-06-03T18:06:08Z" visited="2018-06-03T17:59:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T18:06:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/3_greatest_common_divisor/gcd.c" added="2018-06-03T18:06:14Z" modified="2018-06-03T18:16:37Z" visited="2018-06-03T18:06:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T18:16:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/4_least_common_multiple/lcm.c" added="2018-06-03T18:33:22Z" modified="2018-06-03T18:48:28Z" visited="2018-06-03T18:33:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T18:48:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.c" added="2018-06-03T19:13:06Z" modified="2018-06-03T21:46:55Z" visited="2018-06-03T19:13:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T21:46:55Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.c" added="2018-06-03T21:02:25Z" modified="2018-06-03T21:37:35Z" visited="2018-06-03T21:02:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T21:37:35Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.c" added="2018-06-03T22:18:38Z" modified="2018-06-03T22:18:38Z" visited="2018-06-03T22:18:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T22:18:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alomsimoy/Desktop/Coursera/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.c" added="2018-06-03T23:05:44Z" modified="2018-06-03T23:05:44Z" visited="2018-06-03T23:05:44.865806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2018-06-03T23:05:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

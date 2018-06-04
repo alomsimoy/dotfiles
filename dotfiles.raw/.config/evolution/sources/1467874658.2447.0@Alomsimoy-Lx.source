@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=apiqueras.analitia@gmail.com
+Enabled=true
+Parent=
+
+[GNOME Online Accounts]
+AccountId=account_1455806518_0
+CalendarUrl=
+ContactsUrl=
+
+[Collection]
+BackendName=google
+CalendarEnabled=false
+ContactsEnabled=false
+Identity=apiqueras.analitia@gmail.com
+MailEnabled=false

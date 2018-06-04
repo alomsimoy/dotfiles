@@ -1,0 +1,100 @@
+:q
+[0.1, 0.3 .. 1]
+[0.1, 0.2 .. 1]
+[0.1, 0.2 .. 1
+replicate 4 10
+repeat 5
+repeat "5"
+cycle "LOL "
+ [1..]
+ [13, 26..]
+take 24 [13, 26..]
+take 24 [13, 26]
+['1','3'..'Z']
+['1'..'Z']
+['A'..'Z']
+'A' `elem` ('A':'B':'C':[] ++ " qwer")
+' ' `elem` ('A':'B':'C':[] ++ " qwer")
+'a' `elem` ('A':'B':'C':[] ++ " qwer")
+E `elem` ('A':'B':'C':[] ++ " qwer")
+minimum ('A':'B':'C':[] ++ " qwer")
+maximum ('A':'B':'C':[] ++ " qwer")
+drop 3 ('A':'B':'C':[] ++ " qwer")
+drop 1 ('A':'B':'C':[] ++ " qwer")
+take 1 ('A':'B':'C':[] ++ " qwer")
+take 0 ('A':'B':'C':[] ++ " qwer")
+take 3 ('A':'B':'C':[] ++ " qwer")
+reverse ('A':'B':'C':[] ++ " qwer")
+null 0
+null ''
+null ""
+null []
+null ('A':'B':'C':[] ++ " qwer")
+length ('A':'B':'C':[] ++ " qwer")
+lenght ('A':'B':'C':[] ++ " qwer")
+init ('A':'B':'C':[] ++ " qwer")
+last ('A':'B':'C':[] ++ " qwer")
+tail ('A':'B':'C':[] ++ " qwer")
+head ('A':'B':'C':[] ++ " qwer")
+head 'A':'B':'C':[] ++ " qwer"
+'A':'B':'C':[] ++ " qwer"
+'A':'B':'C':[] ++ " qwer
+'A':'B':'C':[]
+"A":'B':'C':[]
+"A":"B":"C":[]
+A:B:C:[]
+"Hello World" !! 11
+"Hello World" !! 10
+"Hello World" !! 7
+"Hello World" !! 6
+"Hello World" !! 4
+"Hello World" !! 3
+doubleSmallNumber 500
+doubleSmallNumber 5
+:l baby
+:q
+:l baby
+:q
+doubleUs 2.3 34.2
+:l baby
+:q
+doubleUs 4 9
+:l baby
+:q
+doubleMe 3
+:l baby
+:q
+exit
+doubleMe 14
+doubleMe x = x + x
+20 `div` 4
+2 `div` 4.0
+2 `div` 4
+2 `div` 2
+2 `pow` 2
+min "asdf" "vxcv"
+min "a" "v"
+min a v
+max 9 10
+min 9 10
+succ 8
+5 == "5"
+12 /= 5
+10 /= 5
+5 /= 5
+5 == 5
+5 === 5
+5 == 5
+True || False
+True || not False
+True && not False
+True && False
+2 + 15
+2 + 5
+:quit
+:?
+q
+exit
+doubleSmallNumber' 120
+doubleSmallNumber' 3
+doublesmallNumber' 3

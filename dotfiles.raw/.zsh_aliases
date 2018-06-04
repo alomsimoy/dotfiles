@@ -1,0 +1,6 @@
+alias open="xdg-open"
+alias ytd='youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'
+alias whatsapp='/usr/bin/chromium --profile-directory=Default --app-id=hnpfjngllnobngcgfapefoaidbinmjnm'
+alias gmail='/usr/bin/chromium --profile-directory=Default --app-id=kmhopmchchfpfdcdjodmpfaaphdclmlj'
+alias postman='/usr/bin/chromium --profile-directory=Default --app-id=fhbjgbiflinjbdggehcddcbncdddomop'
+

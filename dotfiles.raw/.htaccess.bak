@@ -1,0 +1,209 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+Redirect 301 /es/fotos-boutique-hotel-deia-mallorca http://esmoli.com/es/fotos-hotel-deia-mallorca
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca-habitaciones
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-doble-superior-balcon http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-doble-balcon
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-doble-clasica http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-doble
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-junior-suite http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-junior-suite
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-suite-panoramica http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-suite-panoramica
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-doble-superior-anexo http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-doble-anexo
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-doble-anexo http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-doble-anexo-balcon
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-individual-terraza http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-individual-terraza
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/habitacion-hotel-individual http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-individual
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/familiar-clasica-con-terraza-3/ http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-familiar-terraza
+Redirect 301 /es/habitaciones-boutique-hotel-deia-mallorca/familiar-clasica-2/ http://esmoli.com/es/hotel-deia-mallorca-habitaciones/hotel-deia-habitacion-familiar
+Redirect 301 /es/boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca
+Redirect 301 /es/boutique-hotel-deia-mallorca/playa-cala-muleta-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/playa-cala-muleta-deia-mallorca
+Redirect 301 /es/boutique-hotel-deia-mallorca/hotel-wellness-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-deia-mallorca-wellness
+Redirect 301 /es/boutique-hotel-deia-mallorca/piscina-climatizada-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-deia-mallorca-piscina-climatizada
+Redirect 301 /es/boutique-hotel-deia-mallorca/jardines-boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-encanto-deia-mallorca-jardines
+Redirect 301 /es/boutique-hotel-deia-mallorca/hotel-recepcion-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-deia-mallorca-recepcion
+Redirect 301 /es/boutique-hotel-deia-mallorca/hotel-deportes-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-deia-mallorca-deportes
+Redirect 301 /es/boutique-hotel-deia-mallorca/historia-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-es-moli-deia-mallorca-historia
+Redirect 301 /es/boutique-hotel-deia-mallorca/empleados-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-es-moli-deia-mallorca-empleados
+Redirect 301 /es/boutique-hotel-deia-mallorca/hotel-tienda-regalos-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca/hotel-deia-mallorca-tienda-regalos
+Redirect 301 /es/bares-restaurantes-deia-mallorca/desayuno-boutique-hotel-deia-mallorca http://esmoli.com/es/bares-restaurantes-deia-mallorca/hotel-deia-mallorca-desayuno
+Redirect 301 /es/bares-restaurantes-deia-mallorca/restaurante-buganvilia-boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca-bares-restaurantes/hotel-deia-mallorca-restaurante-buganvilia
+Redirect 301 /es/bares-restaurantes-deia-mallorca/bar-tapas-boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca-bares-restaurantes/hotel-deia-mallorca-bar-tapas
+Redirect 301 /es/bares-restaurantes-deia-mallorca/bar-salon-boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca-bares-restaurantes/hotel-deia-mallorca-bar-salon
+Redirect 301 /es/bares-restaurantes-deia-mallorca/bar-piscina-boutique-hotel-deia-mallorca http://esmoli.com/es/hotel-deia-mallorca-bares-restaurantes/hotel-deia-mallorca-bar-piscina
+Redirect 301 /es/bares-restaurantes-deia-mallorca/servicio-habitaciones-boutique-hotel-deia-mallorca http://esmoli.com/es/bares-restaurantes-hotel-deia-mallorca/servicio-habitaciones-hotel-deia-mallorca
+# Redirect 301 /es/bares-restaurantes-deia-mallorca/restaurante-can-quet-deia-mallorca http://esmoli.com/es/bares-restaurantes-hotel-deia-mallorca/restaurante-can-quet-deia-mallorca
+Redirect 301 /es/mapa-web-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-es-moli-deia-mallorca-mapa-web
+Redirect 301 /es/trabaje-con-nosotros-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-es-moli-deia-mallorca-trabaje-con-nosotros
+Redirect 301 /es/politica-privacidad-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-es-moli-deia-mallorca-politica-privacidad
+Redirect 301 /es/condiciones-generales-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-es-moli-deia-mallorca-condiciones-generales
+Redirect 301 /es/aviso-legal-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-es-moli-deia-mallorca-aviso-legal
+Redirect 301 /es/politica-cookies-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/es/hotel-es-moli-deia-mallorca-politica-cookies
+Redirect 301 /en/photos-boutique-hotel-deia-majorca http://esmoli.com/en/hotel-es-moli-deia-majorca-photos
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca http://esmoli.com/en/hotel-deia-majorca-rooms
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-superior-double http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-double-balcony
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-double-classic http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-double
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-junior-suite http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-junior-suite
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-suite-panoramic http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-suite
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-superior-double-annex http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-double-annex-balcony
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-double-annex http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-double-annex
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-single-terrace http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-single-terrace
+Redirect 301 /en/hotel-rooms-boutique-hotel-deia-majorca/hotel-rooms-single http://esmoli.com/en/hotel-deia-majorca-rooms/hotel-deia-rooms-single
+Redirect 301 /en/boutique-hotel-deia-majorca/hotel-wellness-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-wellness
+Redirect 301 /en/boutique-hotel-deia-majorca/heated-pool-hotel-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-heated-pool
+Redirect 301 /en/boutique-hotel-deia-majorca/gardens-boutique-hotel-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-gardens
+Redirect 301 /en/boutique-hotel-deia-majorca/hotel-reception-gifts-shop-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-reception-gifts-shop
+Redirect 301 /en/boutique-hotel-deia-majorca/hotel-sports-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-sports
+Redirect 301 /en/boutique-hotel-deia-majorca/history-hotel-es-moli-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-es-moli-deia-majorca-history
+Redirect 301 /en/boutique-hotel-deia-majorca/staff-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-staff
+Redirect 301 /en/boutique-hotel-deia-majorca/hotel-gifts-shop-deia-majorca http://esmoli.com/en/boutique-hotel-deia-majorca/hotel-deia-majorca-gifts-shop
+Redirect 301 /en/bars-restaurants-deia-majorca/breakfast-boutique-hotel-deia-majorca http://esmoli.com/en/bars-restaurants-deia-majorca/hotel-deia-majorca-breakfast
+Redirect 301 /en/bars-restaurants-deia-majorca/restaurant-buganvilia-boutique-hotel-deia-majorca http://esmoli.com/en/bars-restaurants-deia-majorca/hotel-deia-majorca-restaurant-buganvilia
+Redirect 301 /en/bars-restaurants-deia-majorca/tapas-bar-boutique-hotel-deia-majorca http://esmoli.com/en/bars-restaurants-deia-majorca/hotel-deia-majorca-tapas-bar
+Redirect 301 /en/bars-restaurants-deia-majorca/lounge-bar-boutique-hotel-deia-majorca http://esmoli.com/en/bars-restaurants-deia-majorca/hotel-deia-majorca-lounge-bar
+Redirect 301 /en/bars-restaurants-deia-majorca/pool-bar-boutique-hotel-deia-majorca http://esmoli.com/en/bars-restaurants-deia-majorca/hotel-deia-majorca-pool-bar
+Redirect 301 /en/bars-restaurants-deia-majorca/room-service-boutique-hotel-deia-majorca http://esmoli.com/en/bars-restaurants-deia-majorca/hotel-deia-majorca-room-service
+Redirect 301 /en/sitemap-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/hotel-deia-majorca-es-moli-sitemap
+Redirect 301 /en/work-with-us-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/work-with-us-hotel-es-moli-deia-majorca
+Redirect 301 /en/privacy-policy-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/privacy-policy-hotel-es-moli-deia-majorca
+Redirect 301 /en/policies-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/policies-hotel-es-moli-deia-majorca
+Redirect 301 /en/legal-notice-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/legal-notice-hotel-es-moli-deia-majorca
+Redirect 301 /en/cookies-boutique-hotel-es-moli-deia-majorca http://esmoli.com/en/cookies-hotel-es-moli-deia-majorca
+Redirect 301 /en/what-to-do-deia-majorca/deia-cultural-majorca http://esmoli.com/en/what-to-do-deia-majorca/deia-cultural
+Redirect 301 /de/bilder-landhotel-hotel-deia-mallorca http://esmoli.com/de/bilder-videos-hotel-deia-mallorca
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca http://esmoli.com/de/zimmer-hotel-deia-mallorca
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-doppelzimmer-superior-balkon http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-doppelzimmer-balkon-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-doppelzimmer-klassisch http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-doppelzimmer-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-doppelzimmer-junior-suite http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-junior-suite-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-doppelzimmer-suite-panoramablick http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-suite-panoramablick-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-doppelzimmer-superior-balkon-nebengebaeude http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-doppelzimmer-balkon-nebengebaeude-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-doppelzimmer-klassisch-nebengebaeude http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-doppelzimmer-nebengebaeude-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-einzelzimmer http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-einzelzimmer-terrasse-hotel-deia
+Redirect 301 /de/zimmer-landhotel-hotel-deia-mallorca/hotelzimmer-einzelzimmer-terrasse  http://esmoli.com/de/zimmer-hotel-deia-mallorca/hotelzimmer-einzelzimmer-hotel-deia
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/strand-bucht-cala-muleta-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/strand-bucht-cala-muleta-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/wellnesshotel-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/wellnesshotel-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/beheizter-pool-hotel-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/beheizter-pool-hotel-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/garten-landhotel-wellnesshotel-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/garten-hotel-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/landhotel-hotelrezeption-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/hotelrezeption-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/sport-wellnesshotel-hotel-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/sport-wellnesshotel-hotel-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/geschichte-hotel-es-moli-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/geschichte-hotel-es-moli-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/team-4-sterne-hotel-boutique-es-moli-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/team-hotel-es-moli-deia-mallorca
+Redirect 301 /de/vier-sterne-hotel-landhotel-deia-mallorca/landhotel-geschenkboutique-deia-mallorca http://esmoli.com/de/hotel-in-deia-mallorca/hotel-geschenkboutique-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/fruehstueck-landhotel-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/fruehstueck-hotel-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/restaurant-buganvilia-landhotel-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/restaurant-buganvilia-hotel-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/tapas-bar-landhotel-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/tapas-bar-hotel-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/salon-bar-landhotel-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/salon-bar-hotel-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/pool-bar-landhotel-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/pool-bar-hotel-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/room-service-landhotel-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/room-service-hotel-deia-mallorca
+Redirect 301 /de/bars-restaurants-deia-mallorca/restaurant-can-quet-deia-mallorca http://esmoli.com/de/bars-restaurants-deia-mallorca/restaurant-can-quet-deia-mallorca
+Redirect 301 /de/veranstaltungen-deia-mallorca/hochzeit-planen-deia-mallorca http://esmoli.com/de/veranstaltungen-deia-mallorca/hochzeit-planen-hotel-deia-mallorca
+Redirect 301 /de/veranstaltungen-deia-mallorca/feiern-deia-mallorca http://esmoli.com/de/veranstaltungen-deia-mallorca/feiern-hotel-deia-mallorca
+Redirect 301 /de/veranstaltungen-deia-mallorca/firmenevents-deia-mallorca http://esmoli.com/de/veranstaltungen-deia-mallorca/firmenevents-hotel-deia-mallorca
+Redirect 301 /de/sitemap-landhotel-hotel-es-moli-deia-mallorca http://esmoli.com/de/sitemap-landhotel-hotel-deia-mallorca
+Redirect 301 /de/arbeiten-sie-mit-uns-4-sterne-hotel-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/de/arbeiten-sie-mit-uns-hotel-es-moli-deia-mallorca
+Redirect 301 /de/datenschutz-4-sterne-hotel-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/de/datenschutz-hotel-boutique-hotel-es-moli-deia-mallorca
+Redirect 301 /de/allgemein-bedingungen-4-sterne-hotel-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/de/allgemein-bedingungen-hotel-boutique-hotel-es-moli-deia-mallorca
+Redirect 301 /de/rechtliche-hinweise-4-sterne-hotel-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/de/rechtliche-hinweise-hotel-boutique-hotel-es-moli-deia-mallorca
+Redirect 301 /de/verwendung-cookies-4-sterne-hotel-boutique-hotel-es-moli-deia-mallorca http://esmoli.com/de/verwendung-cookies-hotel-boutique-hotel-es-moli-deia-mallorca
+</IfModule>
+# BEGIN WpFastestCache
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^esmoli.com
+RewriteRule ^(.*)$ http\:\/\/www\.esmoli\.com\/$1 [R=301,L]
+RewriteCond %{HTTP_USER_AGENT} !(facebookexternalhit)
+RewriteCond %{REQUEST_METHOD} !POST
+RewriteCond %{HTTPS} !=on
+RewriteCond %{REQUEST_URI} !(\/){2}$
+RewriteCond %{QUERY_STRING} !.+
+RewriteCond %{HTTP:X-Wap-Profile} !^[a-z0-9\"]+ [NC]
+RewriteCond %{HTTP:Profile} !^[a-z0-9\"]+ [NC]
+RewriteCond %{DOCUMENT_ROOT}/wp-content/cache/all/$1/index.html -f [or]
+RewriteCond /var/www/vhosts/16/183850/webspace/httpdocs/esmoli.com/wp-content/cache/all/$1/index.html -f
+RewriteRule ^(.*) "/wp-content/cache/all/$1/index.html" [L]
+</IfModule>
+<FilesMatch "\.(html|htm)$">
+AddDefaultCharset UTF-8
+<ifModule mod_headers.c>
+FileETag None
+Header unset ETag
+Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+Header set Pragma "no-cache"
+Header set Expires "Mon, 29 Oct 1923 20:30:00 GMT"
+</ifModule>
+</FilesMatch>
+# END WpFastestCache
+# BEGIN GzipWpFastestCache
+<IfModule mod_deflate.c>
+AddType x-font/woff .woff
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE font/opentype font/ttf font/eot font/otf
+</IfModule>
+# END GzipWpFastestCache
+# BEGIN LBCWpFastestCache
+<FilesMatch "\.(?i:ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|x-html|css|xml|js|woff|woff2|ttf|svg|eot)(\.gz)?$">
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault A0
+ExpiresByType image/gif A2592000
+ExpiresByType image/png A2592000
+ExpiresByType image/jpg A2592000
+ExpiresByType image/jpeg A2592000
+ExpiresByType image/ico A2592000
+ExpiresByType image/svg+xml A2592000
+ExpiresByType text/css A2592000
+ExpiresByType text/javascript A2592000
+ExpiresByType application/javascript A2592000
+ExpiresByType application/x-javascript A2592000
+</IfModule>
+<IfModule mod_headers.c>
+Header set Expires "max-age=2592000, public"
+Header unset ETag
+Header set Connection keep-alive
+FileETag None
+</IfModule>
+</FilesMatch>
+# END LBCWpFastestCache
+# Force https only on the /EsMoli directory @link http://stackoverflow.com/a/5721087
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+# redirect for http /EsMoli page
+RewriteCond %{SERVER_PORT} =80
+RewriteRule ^EsMoli/?$ https://www.esmoli.com/EsMoli [R=301,QSA,L,NE]
+
+# redirect for http /EsMoli2 page
+RewriteCond %{SERVER_PORT} =80
+RewriteRule ^EsMoli2/?$ https://www.esmoli.com/EsMoli2 [R=301,QSA,L,NE]
+
+# redirect for https non /EsMoli pages
+RewriteCond %{SERVER_PORT} =443
+# RewriteCond %{REQUEST_URI} !^/EsMoli\d? [NC]
+RewriteCond %{REQUEST_URI} !^\/(EsMoli\d*|wp-content) [NC]
+RewriteRule ^/?(.*)$ http://www.esmoli.com/$1 [R=301,QSA,L,NE]
+</IfModule>
+
+
+Header set Access-Control-Allow-Origin "*"
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

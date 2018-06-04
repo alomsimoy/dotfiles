@@ -1,0 +1,9 @@
+MySQL.export.addDropStatements=true
+MySQL.export.disableKeys=true
+MySQL.export.extendedInserts=true
+MySQL.export.outputFilePattern=dump-${database}-${timestamp}.sql
+dialog.default.folder=/home/alomsimoy/Downloads
+eclipse.preferences.version=1
+project.active=General
+resultset.presentation.active=spreadsheet
+ui.auto.update.check.time=1506583460257

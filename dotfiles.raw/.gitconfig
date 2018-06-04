@@ -1,0 +1,8 @@
+[user]
+	email = alomsimoy@gmail.com
+[user]
+	name = Alex
+[core]
+	excludesfile = ~/.gitignore
+[alias]
+	tree = log --oneline --decorate --all --graph

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Aptoide
+Icon=/home/alomsimoy/.local/share/shashlik//cm.aptoide.pt.png
+Exec=/opt/shashlik/bin/shashlik-run cm.aptoide.pt "Aptoide"
+Terminal=false
+Type=Application
+Encoding=UTF-8

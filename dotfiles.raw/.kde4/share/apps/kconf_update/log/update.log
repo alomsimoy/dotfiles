@@ -1,0 +1,45 @@
+2016-09-07T14:04:10 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-09-07T14:04:10 kcookiescfg.upd: Found new update 'kde2.2/b1'
+2016-09-07T14:04:10 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2016-09-07T14:04:10 kcookiescfg.upd: Found new update 'kde3.1/cvs'
+2016-09-07T14:04:10 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2016-09-07T14:04:10 kcookiescfg.upd: Found new update 'kde4.10/git'
+2016-09-07T14:04:10 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2016-09-07T14:04:10 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2016-09-07T14:04:10 kioslave.upd: Found new update 'kde2.2/r1'
+2016-09-07T14:04:10 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-09-07T14:04:10 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-09-07T14:04:10 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-09-07T14:04:10 kioslave.upd: Found new update 'kde2.2/r2'
+2016-09-07T14:04:10 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-09-07T14:04:10 kioslave.upd: Found new update 'kde2.2/r3'
+2016-09-07T14:04:10 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-09-07T14:04:10 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-09-07T14:04:10 ksslcertificatemanager.upd: Found new update 'kde4.2'
+2016-09-07T14:04:10 ksslcertificatemanager.upd: Running script 'ksslcertificatemanager.upd.sh'
+2016-09-07T14:04:10 [Script] rm: cannot remove '/home/alomsimoy/.kde4//share/config/ksslcertificatemanager': No such file or directory
+2016-09-07T14:04:10 ksslcertificatemanager.upd: !! An error occurred while running 'sh /usr/share/apps/kconf_update/ksslcertificatemanager.upd.sh'
+2016-09-07T14:04:10 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2016-09-07T14:04:10 kio_help.upd: Found new update 'kde3_2'
+2016-09-07T14:04:10 kio_help.upd: Running script 'move_kio_help_cache.sh'
+2016-09-07T14:04:10 [Script] mv: cannot stat '/home/alomsimoy/.kde4/share/apps/kio_help/cache': No such file or directory
+2016-09-07T14:04:10 [Script] rmdir: failed to remove '/home/alomsimoy/.kde4/share/apps/kio_help': No such file or directory
+2016-09-07T14:04:10 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2016-09-07T14:04:10 kded.upd: Found new update 'kde3.0'
+2016-09-07T14:04:10 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2016-09-26T09:21:04 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-09-26T09:21:04 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2016-09-26T09:21:04 kioslave.upd: Found new update 'kde2.2/r1'
+2016-09-26T09:21:04 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-09-26T09:21:04 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-09-26T09:21:04 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-09-26T09:21:04 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2016-09-26T09:21:04 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2016-10-27T13:47:02 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-10-27T13:47:02 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2016-10-27T13:47:02 kioslave.upd: Found new update 'kde2.2/r1'
+2016-10-27T13:47:02 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-10-27T13:47:02 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-10-27T13:47:02 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-10-27T13:47:02 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2016-10-27T13:47:02 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates

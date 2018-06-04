@@ -1,0 +1,50 @@
+touch publication-editor.js
+mkdir PublicationEditorLayout
+w
+search roi
+rename roipot-wp-plugin-latest.zip
+rename webpack.config.test.js_
+rename webpack.config.js
+rename webpack.config.test.js
+rename testblog_wp_login.pcapng
+search html
+search dom
+vim
+rename Alanis Morissette - You Oughta Know.mp3
+rename Alice in Chains - Kashmir.mp3
+rename Black Sabbath - Snowblind.mp3
+rename Bob Marley- Three Little Birds.mp3
+rename Depeche Mode - Just Can't Get Enough.mp3
+rename Depeche Mode - Strangelove.mp3
+rename Eric Clapton -  While my guitar gently weeps (Concert for George).mp3
+rename Gary Moore & Friends - Emerald, Still In Love With You, Black Rose.mp3
+rename Wilson Pickett - Land Of 1000 Dances.mp3
+rename Lou Reed - Sweet Jane (live).mp3
+rename Michael Jackson - Billie Jean.mp3
+rename MUSE - Dig Down.mp3
+rename Otis Redding - (Sittin' On) The Dock Of The Bay.mp3
+rename Pearl Jam - Jeremy.mp3
+rename R.E.M. - Everybody Hurts.mp3
+rename Beach Boys - Surfin' U.S.A..mp3
+rename Thin Lizzy - Róisín Dubh (Black Rose): A Rock Legend.mp3
+rename cert.crt
+rename cert.pem
+rename privkey.pem
+
+mkdir fake
+ln -s
+search wrangle
+open_with 
+find 
+rename roypost.es
+rename LicenseVoter.php
+rename Semana 1 - Lateral B.jpg
+rename Semana 1 Frontal B.jpeg
+rename Semana 1 - Frontal B.jpg
+rename Semana 1 - Frontal.jpg
+rename Semana 1 - Lateral.jpg
+rename PublicationException.php_
+rename PublicationException.php
+open_with q
+mkdir screenshots
+delete

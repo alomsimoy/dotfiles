@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-15e2e281587-7b368057a8ddca2a" provider="mysql" driver="mysql5" name="Roipost localhost" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="127.0.0.1" port="3306" server="" database="symfony" url="jdbc:mysql://127.0.0.1:3306/symfony" user="analitiadev" password="Hw0SKUACBUJVQ2bf" home="/usr" type="dev">
+			<property name="connectTimeout" value="20000"/>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="false" save-password="false">
+				<property name="sshConnectTimeout" value="10000"/>
+				<property name="authType" value="PASSWORD"/>
+				<property name="port" value="22"/>
+			</network-handler>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" save-password="false">
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+			<network-handler type="CONFIG" id="mysql_ssl" enabled="false" save-password="false">
+				<property name="ssl.public.key.retrieve" value="false"/>
+				<property name="ssl.verify.server" value="true"/>
+				<property name="ssl.require" value="false"/>
+			</network-handler>
+		</connection>
+	</data-source>
+	<data-source id="mysql5-15e2e2dfe6a-75b075b3058d4b85" provider="mysql" driver="mysql5" name="Roipost prod" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="roipostdbprod-2017-08-23-23-14.c1arltoyidxs.eu-west-1.rds.amazonaws.com" port="3306" server="" database="symfony" url="jdbc:mysql://roipostdbprod-2017-08-23-23-14.c1arltoyidxs.eu-west-1.rds.amazonaws.com:3306/symfony" user="analitia" password="GFMQJU9TFzAWCxw4J0RtAEb2" type="prod">
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="false" save-password="false">
+				<property name="sshConnectTimeout" value="10000"/>
+				<property name="port" value="22"/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" save-password="false">
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+			<network-handler type="CONFIG" id="mysql_ssl" enabled="false" save-password="false">
+				<property name="ssl.public.key.retrieve" value="false"/>
+				<property name="ssl.verify.server" value="true"/>
+				<property name="ssl.require" value="false"/>
+			</network-handler>
+			<bootstrap autocommit="false"/>
+		</connection>
+	</data-source>
+	<data-source id="mysql5-15e334c79cb-13cc619cb05ec860" provider="mysql" driver="mysql5" name="Roipost stage" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="roipostdbprod.c1arltoyidxs.eu-west-1.rds.amazonaws.com" port="3306" server="" database="roipost_stage" url="jdbc:mysql://roipostdbprod.c1arltoyidxs.eu-west-1.rds.amazonaws.com:3306/roipost_stage" user="analitia" password="GFMQJU9TFzAWCxw4J0RtAEb2" home="/usr" type="test">
+			<property name="connectTimeout" value="20000"/>
+			<network-handler type="CONFIG" id="mysql_ssl" enabled="false" save-password="false">
+				<property name="ssl.public.key.retrieve" value="false"/>
+				<property name="ssl.verify.server" value="true"/>
+				<property name="ssl.require" value="false"/>
+			</network-handler>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="false" save-password="false">
+				<property name="sshConnectTimeout" value="10000"/>
+				<property name="port" value="22"/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" save-password="false">
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+		</connection>
+	</data-source>
+	<filters/>
+</data-sources>

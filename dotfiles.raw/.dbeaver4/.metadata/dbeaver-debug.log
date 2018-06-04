@@ -1,0 +1,26 @@
+2017-09-28 09:24:12.277 - DBeaver 4.1.2 is starting
+2017-09-28 09:24:12.279 - Install path: '/usr/lib/dbeaver'
+2017-09-28 09:24:12.279 - Instance path: 'file:/home/alomsimoy/.dbeaver4/'
+2017-09-28 09:24:12.279 - Memory available 61Mb/910Mb
+2017-09-28 09:24:12.293 - Starting RMI server at 35594
+2017-09-28 09:24:12.804 - Create display
+2017-09-28 09:24:12.882 - Run workbench
+2017-09-28 09:24:15.091 - Initializing DBeaver 4.1.2
+2017-09-28 09:24:15.100 - Host plugin: org.jkiss.dbeaver.core.application 4.1.2
+2017-09-28 09:24:15.105 - Initialize Core...
+2017-09-28 09:24:15.380 - Core initialized (274ms)
+2017-09-28 09:24:15.385 - Configure workbench window
+2017-09-28 09:24:15.516 - Create actions
+2017-09-28 09:24:15.523 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2017-09-28 09:24:15.528 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2017-09-28 09:24:15.999 - Initialize workbench window
+2017-09-28 09:24:16.028 - Finish initialization
+2017-09-28 09:24:17.596 - Connect with 'Roipost stage' (mysql5-15e334c79cb-13cc619cb05ec860)
+2017-09-28 09:24:19.547 - Connected (mysql5-15e334c79cb-13cc619cb05ec860, MySQL Connector Java [mysql-connector-java-5.1.39 ( Revision: 3289a357af6d09ecc1a10fd3c26e95183e5790ad )])
+2017-09-28 09:24:20.262 - Open [http://dbeaver.jkiss.org/product/version.xml]
+2017-09-28 09:46:25.265 - Connect with 'Roipost localhost' (mysql5-15e2e281587-7b368057a8ddca2a)
+2017-09-28 09:46:25.294 - Connected (mysql5-15e2e281587-7b368057a8ddca2a, MySQL Connector Java [mysql-connector-java-5.1.39 ( Revision: 3289a357af6d09ecc1a10fd3c26e95183e5790ad )])
+2017-09-28 16:58:25.414 - Shutdown Core...
+2017-09-28 16:58:25.519 - Disconnected (mysql5-15e2e281587-7b368057a8ddca2a)
+2017-09-28 16:58:25.620 - Disconnected (mysql5-15e334c79cb-13cc619cb05ec860)
+2017-09-28 16:58:25.828 - Shutdown completed in 414ms

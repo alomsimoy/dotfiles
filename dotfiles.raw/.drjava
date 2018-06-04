@@ -1,0 +1,29 @@
+#DrJava configuration file
+#Fri Feb 03 09:31:35 CET 2017
+extra.classpath = /usr/local/algs4/algs4.jar
+all.compiler.versions = true
+right.margin.columns = 80
+lineenum.enabled = true
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+interactions.exit.prompt = false
+interactions.reset.prompt = false
+save.before.compile = true
+compile.before.junit = true
+save.before.javadoc = true
+indent.level = 4
+auto.close.comments = true
+run.with.assert = false
+files.backup = false
+recent.files = [/home/alomsimoy/Desktop/Coursera/HelloWorld/HelloWorld.java]
+window.height = 1061
+window.width = 960
+window.x = 2326
+window.y = 0
+last.dir = /home/alomsimoy/Desktop/Coursera/HelloWorld
+last.interactions.dir = /home/alomsimoy/Desktop/Coursera/HelloWorld
+dialog.completeword.javaapi = true
+tabbedpanes.state = 683 696 700 400
+dialog.drjava.survey.enabled = false
+new.version.notification = none (disabled)
+file.ext.registration = always

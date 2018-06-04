@@ -1,0 +1,20 @@
+VirtualBox GUI VM Selector Window 5.1.12 r112440 linux.amd64 (Dec 21 2016 12:52:39) release log
+00:00:01.933271 Log opened 2017-01-30T09:27:07.097660000Z
+00:00:01.933273 Build Type: release
+00:00:01.933275 OS Product: Linux
+00:00:01.933276 OS Release: 4.8.13-1-ARCH
+00:00:01.933277 OS Version: #1 SMP PREEMPT Fri Dec 9 07:24:34 CET 2016
+00:00:01.933299 DMI Product Name: Inspiron N5110
+00:00:01.933307 DMI Product Version: Not Specified
+00:00:01.933352 Host RAM: 7893MB (7.7GB) total, 5411MB (5.2GB) available
+00:00:01.933356 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.933357 Process ID: 15277
+00:00:01.933358 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.933385 Qt version: 5.7.1
+00:00:02.020216 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.191408 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:02.196223 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 2326x0 x 480x1061
+00:00:02.197661 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1846x0 x 480x1061
+00:00:02.230814 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:02.233684 refreshCertificates/#3: Found 1/166 SSL certs we/you trust (previously 1/166).
+00:00:05.540735 GUI: UIMediumEnumerator: Medium-enumeration finished!

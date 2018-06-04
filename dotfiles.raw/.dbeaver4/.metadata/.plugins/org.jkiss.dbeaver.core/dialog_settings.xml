@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="DriverDownload">
+	</section>
+	<section name="DBeaver.SQLQueryConfirmDialog">
+		<item value="536" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="257" key="DIALOG_HEIGHT"/>
+		<item value="692" key="DIALOG_X_ORIGIN"/>
+		<item value="349" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.SelectDataSourceDialog">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="371" key="DIALOG_HEIGHT"/>
+		<item value="289" key="DIALOG_X_ORIGIN"/>
+		<item value="157" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.ViewSQLDialog">
+		<item value="526" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="510" key="DIALOG_HEIGHT"/>
+		<item value="697" key="DIALOG_X_ORIGIN"/>
+		<item value="182" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.EnterNameDialog">
+		<item value="216" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="151" key="DIALOG_HEIGHT"/>
+		<item value="852" key="DIALOG_X_ORIGIN"/>
+		<item value="422" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.EditConnectionDialog">
+		<item value="722" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="631" key="DIALOG_HEIGHT"/>
+		<item value="599" key="DIALOG_X_ORIGIN"/>
+		<item value="115" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.ScriptSelectorPanel">
+		<item value="100,100,500,200" key="bounds"/>
+	</section>
+	<section name="DBeaver.QM.LoigViewer">
+	</section>
+	<section name="DBeaver.ActiveWizardDialog.MySQLExportWizard">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="652" key="DIALOG_HEIGHT"/>
+		<item value="698" key="DIALOG_X_ORIGIN"/>
+		<item value="82" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.ActiveWizardDialog.MySQLScriptExecuteWizard">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="467" key="DIALOG_HEIGHT"/>
+		<item value="698" key="DIALOG_X_ORIGIN"/>
+		<item value="207" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.DriverEditDialog">
+		<item value="504" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="758" key="DIALOG_HEIGHT"/>
+		<item value="-34" key="DIALOG_X_ORIGIN"/>
+		<item value="-87" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ValueViewDialog">
+		<item value="438:976" key="TextViewDialog-longtext-dialogSize"/>
+		<item value="0" key="string.value.type"/>
+	</section>
+	<section name="AdvanceCopySettings">
+	</section>
+	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
+		<item value="595" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="722" key="DIALOG_HEIGHT"/>
+		<item value="663" key="DIALOG_X_ORIGIN"/>
+		<item value="37" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.DriverDownloadDialog">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="586" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DBeaver.DriverManagerDialog">
+		<item value="436" key="DIALOG_WIDTH"/>
+		<item value="1|Source Sans Pro|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="439" key="DIALOG_HEIGHT"/>
+		<item value="742" key="DIALOG_X_ORIGIN"/>
+		<item value="226" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ResultSetViewer">
+		<section name="presentations">
+			<section name="spreadsheet">
+				<item value="value-view" key="enabledPanelIds"/>
+				<item value="false" key="panelsVisible"/>
+				<item value="300" key="panelRatio"/>
+				<item value="value-view" key="activePanelId"/>
+			</section>
+			<section name="plaintext">
+				<item value="value-view" key="enabledPanelIds"/>
+				<item value="false" key="panelsVisible"/>
+				<item value="300" key="panelRatio"/>
+				<item value="value-view" key="activePanelId"/>
+			</section>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Physion
+Version=1.2.0
+Terminal=false
+Path=/home/alomsimoy/Physion
+Exec=/home/alomsimoy/Physion/Run.sh
+Icon=/home/alomsimoy/Physion/Physion.ico
+Categories=Education;Games;Other
+

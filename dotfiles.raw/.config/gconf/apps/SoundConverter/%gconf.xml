@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="mp3-cbr-quality" mtime="1490610315" type="int" value="256"/>
+	<entry name="mp3-abr-quality" mtime="1489066555" type="int" value="192"/>
+	<entry name="mp3-mode" mtime="1489066558" type="string">
+		<stringvalue>cbr</stringvalue>
+	</entry>
+	<entry name="mp3-vbr-quality" mtime="1489066553" type="int" value="5"/>
+	<entry name="number-of-jobs" mtime="1488988945" type="int" value="7"/>
+	<entry name="limit-jobs" mtime="1460303226" type="int" value="1"/>
+	<entry name="vorbis-quality" mtime="1488988584" type="float" value="0.40000000000000002"/>
+	<entry name="selected-folder" mtime="1473147571" type="string">
+		<stringvalue>file:///home/alomsimoy/Music/converted</stringvalue>
+	</entry>
+	<entry name="same-folder-as-input" mtime="1460303149" type="int" value="0"/>
+	<entry name="last-used-folder" mtime="1490610212" type="string">
+		<stringvalue>file:///home/alomsimoy/Music/new-flac</stringvalue>
+	</entry>
+	<entry name="output-mime-type" mtime="1490610195" type="string">
+		<stringvalue>audio/mpeg</stringvalue>
+	</entry>
+</gconf>

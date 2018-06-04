@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Émulateur et simulateur pour microcontrôleurs 8051
+Terminal=false
+Name=emu8051
+Exec=emu8051-gtk
+Type=Application
+Icon=gnome-panel-launcher

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<mlt>
+	<tractor id="tractor0">
+		<multitrack>
+			<playlist id="Background Track">
+				<producer id="994d71ae-e4b4-11e5-8137-4ceb42665201" in="0" length="306" novdpau="1" out="305">
+					<property name="mlt_service">color</property>
+				</producer>
+			</playlist>
+			<playlist id="Track 1">
+				<producer id="a476ec42-e4b2-11e5-8137-4ceb42665201" in="0" length="306" novdpau="1" out="305">
+					<property name="resource">/home/alomsimoy/Documents/ASIX/EIE/DevelBook/Slide1.PNG</property>
+				</producer>
+			</playlist>
+			<playlist id="Track 2"/>
+			<playlist id="Track 3"/>
+		</multitrack>
+		<transition in="0" out="305">
+			<property name="mlt_service">composite</property>
+			<property name="a_track">0</property>
+			<property name="b_track">1</property>
+			<property name="progressive">1</property>
+			<property name="geometry">0=50%,0%:50%x100%:100; -1=50%,0%:50%x100%:100; </property>
+			<property name="halign">centre</property>
+			<property name="valign">centre</property>
+			<property name="distort">1</property>
+			<property name="fill">1</property>
+		</transition>
+	</tractor>
+</mlt>

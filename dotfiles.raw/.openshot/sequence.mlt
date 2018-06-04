@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<mlt>
+	<tractor id="tractor0">
+		<multitrack>
+			<playlist id="Background Track">
+				<producer id="6b66ab34-48e1-11e6-9d72-24b6fd46478b" in="0" length="6" novdpau="1" out="5">
+					<property name="mlt_service">color</property>
+				</producer>
+			</playlist>
+			<playlist id="Track 1"/>
+			<playlist id="Track 2"/>
+		</multitrack>
+	</tractor>
+</mlt>

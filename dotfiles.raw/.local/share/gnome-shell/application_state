@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="vivaldi-stable.desktop" open-window-count="1" score="18517.912653923035" last-seen="1482399798"/>
+    <application id="jdownloader.desktop" open-window-count="0" score="161.5" last-seen="1482307663"/>
+    <application id="firefox.desktop" open-window-count="0" score="120.5" last-seen="1481878081"/>
+    <application id="slack.desktop" open-window-count="0" score="1349.25" last-seen="1482331501"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="554.75" last-seen="1481888620"/>
+    <application id="wine.desktop" open-window-count="0" score="1" last-seen="1481812899"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3509.7824325561523" last-seen="1482399227"/>
+    <application id="mysql-workbench.desktop" open-window-count="0" score="2" last-seen="1481799185"/>
+    <application id="org.gnome.baobab.desktop" open-window-count="0" score="5" last-seen="1482133765"/>
+    <application id="virtualbox.desktop" open-window-count="0" score="1.5" last-seen="1481812022"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="4" last-seen="1482329539"/>
+    <application id="mplayer.desktop" open-window-count="0" score="8" last-seen="1482392906"/>
+    <application id="chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default.desktop" open-window-count="0" score="13" last-seen="1481807705"/>
+  </context>
+</application-state>

@@ -1,0 +1,1 @@
+/home/alomsimoy/.dotfiles/vim
