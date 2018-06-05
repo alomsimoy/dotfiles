@@ -8,7 +8,8 @@
 
 dir=~/.dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="vimrc vim"    # list of files/folders to symlink in homedir
+files="bin vimrc vim Xresources xinitrc"    # list of files/folders to symlink in homedir
+config="i3"	# list of files/folders to symlink in config
 
 ##########
 
@@ -30,3 +31,10 @@ for file in $files; do
     ln -s $dir/$file ~/.$file
 done
 
+mkdir -p ~/.config
+mkdir -p ~/config_old
+
+for file in $config; do
+    mv ~/.config/$file ~/config_old/
+    ln -s $dir/config/$file ~/.config/$file
+done
