@@ -1,0 +1,212 @@
+// vim:ts=4:sw=4:et
+{
+    // tabbed split container with 10 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "tabbed",
+    "percent": 1,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "FastMail",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^mail\\.piqueras\\.me$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "WhatsApp",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^web\\.whatsapp\\.com$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "Odigeo Mail",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^mail\\.google\\.com__mail_u_0$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "Correo de BRUJULA",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^mail\\.google\\.com__mail_u_1$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 880,
+               "width": 1050,
+               "x": 10,
+               "y": 190
+            },
+            "name": "Odigeo Chat",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^chat\\.google\\.com__u_0_dm$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 880,
+               "width": 1050,
+               "x": 10,
+               "y": 190
+            },
+            "name": "Chat de BRUJULA",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^chat\\.google\\.com__u_1_dm$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "One Front Team Slack",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^onefrontteam\\.slack\\.com$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "Brujula Odigeo Slack",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^brujulaodigeo\\.slack\\.com$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 857,
+               "width": 1436,
+               "x": 2,
+               "y": 221
+            },
+            "name": "Design Framework Slack",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^designframework\\.slack\\.com$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 873,
+               "width": 1436,
+               "x": 2,
+               "y": 205
+            },
+            "name": "Calendar",
+            "percent": 0.1,
+            "swallows": [
+               {
+                  "class": "^Chromium$",
+                  "instance": "^calendar\\.google\\.com__calendar_b_0_r$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+

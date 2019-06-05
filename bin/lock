@@ -1,0 +1,38 @@
+#!/bin/bash
+
+BACKGROUND=$HOME/.cache/lock_background.png
+# PLAYER_STATUS=`playerctl status`
+
+# Pause notifications
+pkill -u $USER -USR1 dunst
+
+# Pause player if any
+# if [ $PLAYER_STATUS = "Playing" ]; then
+    # playerctl pause
+# fi
+
+xdotool key XF86AudioStop
+
+# Generate background
+maim | convert - -filter Gaussian -resize 20% -define filter:sigma=1.2 \
+    -resize 500% -level "0%,100%,0.8" -pointsize 20 -fill white \
+    -draw 'text 1526,1003 ""' $BACKGROUND
+
+# Lock
+i3lock -n --image $BACKGROUND \
+    --color=000000 \
+    --insidecolor=373445ff --ringcolor=ffffffff --line-uses-inside \
+    --keyhlcolor=d23c3dff --bshlcolor=d23c3dff --separatorcolor=00000000 \
+    --insidevercolor=ffffffff --ringwrongcolor=ffffffff \
+    --indpos="x+86:y+1003" --radius=15 --veriftext="" --wrongtext=""
+
+# Resume notifications
+pkill -u $USER -USR2 dunst
+
+# Resume player if any
+# if [ $PLAYER_STATUS = "Playing" ]; then
+    # playerctl play
+# fi
+
+# Delete generated background
+rm $BACKGROUND

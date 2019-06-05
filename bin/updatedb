@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir ~/.locate
+touch ~/.locate/home.db
+find ~ > ~/.locate/home.db

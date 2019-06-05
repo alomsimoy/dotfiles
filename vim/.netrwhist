@@ -1,7 +1,7 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/alomsimoy/Desktop/roipost-panel/src'
-let g:netrw_dirhist_2='/home/alomsimoy/Desktop/roipost-panel/src/components'
-let g:netrw_dirhist_3='/home/alomsimoy/Desktop/roipost-panel/src/components/AppLayout'
-let g:netrw_dirhist_4='/home/alomsimoy/Desktop/roipost-proxy-gen/config'
-let g:netrw_dirhist_5='/home/alomsimoy/Desktop/roipot-backend/docker-files'
+let g:netrw_dirhist_1='/home/apiqueras/Desktop/bookshelf/src'
+let g:netrw_dirhist_2='/home/apiqueras/Desktop/bookshelf/src/devtools'
+let g:netrw_dirhist_3='/home/apiqueras/Desktop/bookshelf/src'
+let g:netrw_dirhist_4='/home/apiqueras/Desktop/bookshelf/src/backend'
+let g:netrw_dirhist_5='/home/apiqueras/Desktop/bookshelf2'
